@@ -1,6 +1,8 @@
 # Weather API
 
 A simple API built in Go that retrieves the current temperature for a given latitude and longitude.
+<br>[Live Demo](weather.mehmetfd.dev)
+<br>[Its Repo](https://github.com/mehmet-f-dogan/weather-api-frontend)
 
 ## Installation
 
